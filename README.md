@@ -6,9 +6,7 @@
 </p>
 
 ### Demo
-<p align=center>
 ![Batik Drawer Demo](https://github.com/arifsetyoaji/BatikDrawer/blob/master/WWDC2020/BatikDrawer_Preview.gif)
-</p>
 
 ### Requisites
 
