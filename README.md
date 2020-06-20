@@ -2,7 +2,7 @@
 
 <p align=center>
     <a href="https://developer.apple.com/wwdc20/"><img alt="WWDC" src="https://img.shields.io/badge/WWDC-2020-121b2e.svg"></a>
-    <a href="https://developer.apple.com/wwdc20/swift-student-challenge/"><img alt="Status" src="https://img.shields.io/badge/Status-submitted-blue.svg"></a>
+    <a href="https://developer.apple.com/wwdc20/swift-student-challenge/"><img alt="Status" src="https://img.shields.io/badge/status-rejected%20--%20after%20being%20submitted%20but%20refused%20to%20get%20a%20scholarship-orange"></a>
 </p>
 
 ### Demo
