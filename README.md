@@ -6,7 +6,9 @@
 </p>
 
 ### Demo
-![Batik Drawer Demo](https://github.com/arifsetyoaji/BatikDrawer/blob/master/WWDC2020/BatikDrawer_Preview.gif)
+<p align=center>
+    ![Batik Drawer Demo](https://github.com/arifsetyoaji/BatikDrawer/blob/master/WWDC2020/BatikDrawer_Preview.gif)
+</p>
 
 ### Requisites
 
@@ -20,7 +22,7 @@ This is the playground I submitted for WWDC20 Swift Student Challenge. It's also
 
 Batik Drawer is an application that can be used to learn to draw Indonesia Batik from selected patterns.
 
-### Third party resource used:
+### Resources:
 
 Image resource:
 - [Unsplash](https://unsplash.com/)
